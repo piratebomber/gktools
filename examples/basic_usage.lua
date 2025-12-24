@@ -5,7 +5,7 @@
 ]]
 
 -- Load GKTools
-local GKTools = loadstring(game:HttpGet("https://raw.githubusercontent.com/example/gktools/main/src/init.lua"))()
+local GKTools = loadstring(game:HttpGet("https://github.com/piratebomber/gktools/raw/refs/heads/main/src/init.lua"))()
 
 -- Create GKTools instance
 local gktools = GKTools()
