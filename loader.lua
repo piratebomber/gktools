@@ -4,7 +4,7 @@
     Single-file loader for easy deployment and execution
     
     Usage:
-    loadstring(game:HttpGet("path/to/loader.lua"))()
+    loadstring(game:HttpGet("https://github.com/piratebomber/gktools/raw/refs/heads/main/loader.lua"))()
 ]]
 
 -- Embedded GKTools source code
